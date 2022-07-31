@@ -18,7 +18,8 @@ scikit_learn==1.1.1
 tldextract==3.3.1
 whois==0.9.16
 ```
-
+Discord API token can be retrevied from [here](https://discord.com/developers/applications).
+Openpagerank API token can be retrevied from [here](https://www.domcop.com/openpagerank/auth/signup).
 ## Install
 ```
 pip install -r /path/to/requirements.txt
