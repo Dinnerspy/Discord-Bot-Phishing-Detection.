@@ -1,6 +1,6 @@
 # Discord-Bot-Phishing-Detection
-Machine Learning based phishing detection bot for Discord
-UNBF CS6495 Capstone Project
+Machine Learning based phishing detection bot for Discord "Fish Finder"  
+UNBF CS6495 Capstone Project for Master of Applied Cybersecurity
 
 
 ## Requirements
@@ -18,7 +18,7 @@ scikit_learn==1.1.1
 tldextract==3.3.1
 whois==0.9.16
 ```
-Discord API token can be retrevied from [here](https://discord.com/developers/applications).
+Discord API token can be retrevied from [here](https://discord.com/developers/applications).  
 Openpagerank API token can be retrevied from [here](https://www.domcop.com/openpagerank/auth/signup).
 ## Install
 ```
